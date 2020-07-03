@@ -1,6 +1,5 @@
 # don't forget to add: require 'pry'
 
-num = gets.chomp
 
 def selection(num)
   if num == 1
